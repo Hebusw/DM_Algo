@@ -43,7 +43,7 @@ char verifierChemin( chemin_t ch, labyrinthe lab, unsigned int largeur, unsigned
 }
 
 void afficherChemin( chemin_t ch ){
-  	/*A faire*/
+  	/*A faire*/ 
 }
 
 
